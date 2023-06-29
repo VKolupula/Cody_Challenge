@@ -8,4 +8,4 @@ for i=1:length(y)
 end
 
 [~,s_i] = sort(z,"descend");
-y = y(:,s_i)
+y = y(:,s_i);
