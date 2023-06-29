@@ -21,4 +21,4 @@ for i = 1:nmax
     nmaxlist(1,n) = max(nlist);
     n=i+1;
 end
-pmax = max(nmaxlist)
+pmax = max(nmaxlist);
